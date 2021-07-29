@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+
+### I'm Back-End Developer
+
+- 🌠 I'm interested in DevOps(Develpment Operation), cloud computing and server progamming.
+- 🤍 I love reading, exercising and challenging new things!
+- 📝 I regularly write articles on [my blog](https://havving-do-it.tistory.com/).
+
+<br/>  
 
 <!--
 **havving/havving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
