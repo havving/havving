@@ -3,7 +3,7 @@
 
 ### I'm Back-End Developer
 
-- 🌠 I'm interested in DevOps(Develpment Operation), cloud computing and server progamming.
+- 🌠 I'm interested in monitoring system, cloud computing and server progamming.
 - 🤍 I love reading, exercising and challenging new things!
 - 📝 I regularly write articles on [my blog](https://havving-do-it.tistory.com/).
 - 💫 Come visit [my portfolio](https://havving.github.io/)!
